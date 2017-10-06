@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.0.0'
+gem 'rails', '4.2.10'
 gem 'thin'
 gem 'mongoid'
 gem 'bootstrap-sass', '~> 3.1.1'
